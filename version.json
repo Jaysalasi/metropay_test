@@ -1,6 +1,6 @@
 {
     "version": "1.0.1",
-    "versionCode": 1,
-    "apkUrl": "https://github.com/gnorizon/validator/raw/main/metro-validator-v1.0.1-build1.apk",
-    "changelog": "Fix bus tracking issue"
+    "versionCode": 2,
+    "apkUrl": "https://github.com/gnorizon/validator/raw/main/metro-validator-v1.0.1-build2.apk",
+    "changelog": "Fix negative bus fare loophole"
 }

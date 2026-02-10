@@ -1,6 +1,6 @@
 {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "versionCode": 3,
     "apkUrl": "https://github.com/gnorizon/validator/raw/main/metro-validator-v1.0.3-build3.apk",
-    "changelog": "Fixed double charging"
+    "changelog": "Fixed double charging and change bus number and remove device owner context menus in kiosk admin"
 }

@@ -6,7 +6,7 @@ push to origin for production
 ## Current Production verion
     "version": "1.0.3",
     "versionCode": 4,
-    "apkUrl": "https://github.com/gnorizon/validator/raw/main/metro-validator-v1.0.3-build4.apk"
+    "apkUrl": "https://github.com/gnorizon/validator/raw/main/metro-validator-v1.0.4-build5.apk"
 
 ## Current Test verion
     "version": "1.0.9",

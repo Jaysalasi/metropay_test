@@ -1,6 +1,6 @@
 {
-    "version": "1.0.5",
-    "versionCode": 6,
-    "apkUrl": "https://github.com/gnorizon/validator/raw/main/metro-validator-v1.0.5-build6.apk",
+    "version": "1.0.6",
+    "versionCode": 7,
+    "apkUrl": "https://github.com/gnorizon/validator/raw/main/metro-validator-v1.0.6-build7.apk",
     "changelog": "Upgraded flutter version - limit offline payments"
 }

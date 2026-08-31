@@ -9,6 +9,6 @@ push to origin for production
     "apkUrl": "https://github.com/gnorizon/validator/raw/main/metro-validator-v1.0.4-build5.apk"
 
 ## Current Test verion
-    "version": "1.0.9",
-    "versionCode": 10,
-    "apkUrl": "https://github.com/Jaysalasi/metropay_test/raw/main/metro-validator-v1.0.9-build10.apk",
+    "version": "1.0.6",
+    "versionCode": 7,
+    "apkUrl": "https://github.com/Jaysalasi/metropay_test/raw/main/metro-validator-v1.0.6-build7.apk",

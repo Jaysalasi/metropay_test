@@ -11,4 +11,4 @@ push to origin for production
 ## Current Test verion
     "version": "1.0.2",
     "versionCode": 2,
-    "apkUrl": "https://github.com/Jaysalasi/metropay_test/raw/main/metro-validator-v1.0.2-build2.apk",
+    "apkUrl": "https://github.com/Jaysalasi/metropay_test/raw/main/metro-validator-v1.0.3-build3.apk",
